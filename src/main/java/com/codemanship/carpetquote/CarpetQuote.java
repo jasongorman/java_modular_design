@@ -1,4 +1,4 @@
-package CarpetQuote;
+package com.codemanship.carpetquote;
 
 public class CarpetQuote {
     public double calculate(double length, double width, double pricePerSqM, boolean roundUpToSqM) {
@@ -9,4 +9,5 @@ public class CarpetQuote {
 
         return area * pricePerSqM;
     }
+
 }

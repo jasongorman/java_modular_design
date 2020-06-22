@@ -1,4 +1,6 @@
-import CarpetQuote.CarpetQuote;
+package com.codemanship.carpetquote;
+
+import com.codemanship.carpetquote.CarpetQuote;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
